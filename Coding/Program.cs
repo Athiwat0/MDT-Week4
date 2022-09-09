@@ -1,4 +1,8 @@
-﻿pubilc class Program
+﻿class program
 {
+    static void Main(string[] args)
+    {
+        Console.Write("Test");
+    }
     
 }
