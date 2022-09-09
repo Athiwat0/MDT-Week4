@@ -1,12 +1,10 @@
 ﻿class program
 {
-<<<<<<< HEAD
     static void Main(string[] args)
     {
         Console.Write("Test");
+        Grade grade = new Grade();
+        grade.PrintInformationGrade();
     }
     
-=======
-   
->>>>>>> 92b110dc74d364fa759f981d985232f9330adab6
-}
+}   
